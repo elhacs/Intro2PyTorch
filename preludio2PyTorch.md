@@ -46,7 +46,7 @@ jupyter notebook
 ~~~
 
 Y nos debería abrir nuestro navegador web una página como la siguiente.
-![Jupyter](../home.png)
+![Jupyter](https://github.com/elhacs/Intro2PyTorch/blob/main/home.png)
 
 Eso es lo que necesitaremos para iniciar a trabajar.
 
