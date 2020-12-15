@@ -46,7 +46,7 @@ jupyter notebook
 ~~~
 
 Y nos debería abrir nuestro navegador web una página como la siguiente.
-![Jupyter](/home/enrique/Imágenes/home.png)
+![Jupyter](../home.png)
 
 Eso es lo que necesitaremos para iniciar a trabajar.
 
