@@ -1,4 +1,4 @@
-# Predulio a PyTorch
+# Preludio a PyTorch
 
 ## Instalación de Python
 
