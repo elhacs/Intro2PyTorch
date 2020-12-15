@@ -50,3 +50,5 @@ Y nos debería abrir nuestro navegador web una página como la siguiente.
 
 Eso es lo que necesitaremos para iniciar a trabajar.
 
+El siguiente paso es descargar los archivos .py y .ipynb
+
