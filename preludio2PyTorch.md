@@ -14,6 +14,23 @@ Como cualquier programa de Windows, la instalación se reduce a Aceptar, Siguien
 
 Al finalizar, nos preguntará si queremos descargar PyCharm (IDE de Python), de momento no será necesario.
 
+Es recomendable crear un ambiente para un proyecto o trabajo en particular, pero opcional. Crearemos un por completez, abrimos el **Anaconda Command Prompt** y tecleamos
+~~~
+create ambient --name MachineLearning
+~~~
+
+Nos preguntar si queremos instalarlo en directorio le ponemos que Sí. Luego debemos *activar* el ambiente.
+
+~~~
+activate MachineLearning
+~~~
+
+Una vez activado, en la consola tecleamos lo siguiente
+
+~~~
+conda install torch torchvision torchaudio matplotlib numpy utils jupyter
+~~~
+
 #### En MacOS:
 
 Es algo similar al caso de Windows, lo único que cambia son los instaladores:
