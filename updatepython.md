@@ -1,4 +1,4 @@
-# Actulización de Python
+# Actualización de Python
 
 Es altamente recomendable tener actulizado el Python en su versión 3.8
 
